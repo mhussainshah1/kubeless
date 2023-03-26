@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/examples/springcontexte1/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springframeworke5/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springframeworke7/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springfundamentalse4/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springframeworkjdbce1/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springframeworkjdbce2/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springframeworklessone2/pom.xml" />
+        <option value="$PROJECT_DIR$/examples/springframeworke6transactional2/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

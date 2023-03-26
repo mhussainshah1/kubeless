@@ -1,0 +1,9 @@
+# Project exclude paths
+/examples/springcontexte1/target/
+/examples/springframeworke5/target/
+/examples/springframeworke6transactional2/target/
+/examples/springframeworke7/target/
+/examples/springframeworkjdbce1/target/
+/examples/springframeworkjdbce2/target/
+/examples/springframeworklessone2/target/
+/examples/springfundamentalse4/target/
