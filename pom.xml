@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>examples/springbootrest-e1</module>
+        <module>examples/springbootreste1</module>
         <module>examples/springcontexte1</module>
         <module>examples/springframeworklessone2</module>
         <module>examples/springfundamentalse4</module>
