@@ -12,6 +12,8 @@
 ## pom.xml
 
 ## parent
+use in child maven file which inherits parent file 
+
 ### version
 chosen version of springboot which inherit the version of parent which applies to all dependencies.
 
