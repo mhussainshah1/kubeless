@@ -6,27 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springframework-jdbc-e1" />
         <module name="springframeworkjdbce2" />
-        <module name="springframework-e6-transactional2" />
-        <module name="kubeless" />
-        <module name="springframework-e5" />
-        <module name="springframework-lessone2" />
-        <module name="springframework-e7" />
-        <module name="spring-context-e1" />
-        <module name="springfundamentals-e4" />
+        <module name="springframeworke6transactional2" />
+        <module name="springfundamentalse4" />
+        <module name="springframeworkjdbce1" />
+        <module name="springbootreste1" />
+        <module name="springframeworklessone2" />
+        <module name="springframeworke5" />
+        <module name="springcontexte1" />
+        <module name="springframeworke7" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="kubeless" target="1.5" />
-      <module name="spring-context-e1" target="17" />
-      <module name="springframework-e5" target="15" />
-      <module name="springframework-e6-transactional2" target="17" />
-      <module name="springframework-e7" target="17" />
-      <module name="springframework-jdbc-e1" target="17" />
-      <module name="springframework-lessone2" target="17" />
-      <module name="springframeworkjdbce2" target="17" />
-      <module name="springfundamentals-e4" target="17" />
-    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springbootreste1" options="-parameters" />
+    </option>
   </component>
 </project>

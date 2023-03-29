@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kubeless.iml" filepath="$PROJECT_DIR$/.idea/kubeless.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springcontexte1/spring-context-e1.iml" filepath="$PROJECT_DIR$/examples/springcontexte1/spring-context-e1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springframeworke5/springframework-e5.iml" filepath="$PROJECT_DIR$/examples/springframeworke5/springframework-e5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springframeworke6transactional2/springframework-e6-transactional2.iml" filepath="$PROJECT_DIR$/examples/springframeworke6transactional2/springframework-e6-transactional2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springframeworke7/springframework-e7.iml" filepath="$PROJECT_DIR$/examples/springframeworke7/springframework-e7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springframeworkjdbce1/springframework-jdbc-e1.iml" filepath="$PROJECT_DIR$/examples/springframeworkjdbce1/springframework-jdbc-e1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springframeworklessone2/springframework-lessone2.iml" filepath="$PROJECT_DIR$/examples/springframeworklessone2/springframework-lessone2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springbootrest-e1/springbootreste1.iml" filepath="$PROJECT_DIR$/examples/springbootrest-e1/springbootreste1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springcontexte1/springcontexte1.iml" filepath="$PROJECT_DIR$/examples/springcontexte1/springcontexte1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springframeworke5/springframeworke5.iml" filepath="$PROJECT_DIR$/examples/springframeworke5/springframeworke5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springframeworke6transactional2/springframeworke6transactional2.iml" filepath="$PROJECT_DIR$/examples/springframeworke6transactional2/springframeworke6transactional2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springframeworke7/springframeworke7.iml" filepath="$PROJECT_DIR$/examples/springframeworke7/springframeworke7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springframeworkjdbce1/springframeworkjdbce1.iml" filepath="$PROJECT_DIR$/examples/springframeworkjdbce1/springframeworkjdbce1.iml" />
       <module fileurl="file://$PROJECT_DIR$/examples/springframeworkjdbce2/springframeworkjdbce2.iml" filepath="$PROJECT_DIR$/examples/springframeworkjdbce2/springframeworkjdbce2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/examples/springfundamentalse4/springfundamentals-e4.iml" filepath="$PROJECT_DIR$/examples/springfundamentalse4/springfundamentals-e4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springframeworklessone2/springframeworklessone2.iml" filepath="$PROJECT_DIR$/examples/springframeworklessone2/springframeworklessone2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examples/springfundamentalse4/springfundamentalse4.iml" filepath="$PROJECT_DIR$/examples/springfundamentalse4/springfundamentalse4.iml" />
     </modules>
   </component>
 </project>
