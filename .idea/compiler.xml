@@ -11,6 +11,7 @@
         <module name="springfundamentalse4" />
         <module name="springframeworkjdbce1" />
         <module name="springbootreste1" />
+        <module name="springboot101" />
         <module name="springframeworklessone2" />
         <module name="springframeworke5" />
         <module name="springcontexte1" />
@@ -20,6 +21,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot101" options="-parameters" />
       <module name="springbootreste1" options="-parameters" />
     </option>
   </component>
