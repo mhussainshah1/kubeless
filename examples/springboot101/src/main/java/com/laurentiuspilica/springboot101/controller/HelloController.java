@@ -1,4 +1,4 @@
-package com.laurentiuspilca.springbootreste1.controller;
+package com.laurentiuspilica.springboot101.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

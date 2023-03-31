@@ -17,6 +17,7 @@
         <module>examples/springframeworkjdbce2</module>
         <module>examples/springframeworke6transactional2</module>
         <module>examples/springframeworke7</module>
+        <module>examples/springboot101</module>
         <module>examples/springbootreste1</module>
     </modules>
 </project>
